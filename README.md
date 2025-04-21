@@ -1,6 +1,6 @@
 # Parkinson's Disease Detection Using AI
 
-refer to this video for complete implementation :- https://youtu.be/1Z0WeU_kDLs?si=9tIEEA0SuJEb54-3
+# refer to this video for complete implementation :- https://youtu.be/1Z0WeU_kDLs?si=9tIEEA0SuJEb54-3
 
 This project is an interactive web application aimed at detecting Parkinson's Disease using machine learning (ML), providing therapy tools, and educating users about the condition. It combines a user-friendly interface with a robust backend to assist in early screening and support.
 
